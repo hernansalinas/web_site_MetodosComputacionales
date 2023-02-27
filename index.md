@@ -38,3 +38,6 @@ de metodos computacionales
 |--------|-----------|
 | Algoritmia y graficación| [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 |
 
+| Semana 4| Actividad | Fecha Entrega|
+|--------|-----------|
+| Pandas| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 2/27/2023|
