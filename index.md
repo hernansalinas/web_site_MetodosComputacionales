@@ -40,4 +40,4 @@ de metodos computacionales
 
 | Semana 4| Actividad | Fecha Entrega|
 |--------|-----------|
-| Pandas| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green } [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 3/06/2023|
+| Pandas| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab04_pandas_gpt.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green } [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 3/06/2023|
