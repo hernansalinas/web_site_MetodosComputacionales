@@ -24,20 +24,22 @@ de metodos computacionales
 
 | Semana 1| Actividad | Fecha Entrega|
 |--------|-----------|
-| Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/2023 |
+| Lab:Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/2023 |
 
 
 
 | Semana 2| Actividad | Fecha Entrega|
 |--------|-----------|
-| Python Básico II| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| 2/19/2023 |
+|Lab: Python Básico II| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| 2/19/2023 |
 
 
 
 | Semana 3| Actividad | Fecha Entrega|
 |--------|-----------|
-| Algoritmia y graficación| [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 |
+| Lab:Algoritmia y graficación| [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 |
 
 | Semana 4| Actividad | Fecha Entrega|
 |--------|-----------|
-| Pandas| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green } [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 3/06/2023|
+| Lab: Pandas| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green } [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 3/06/2023|
+|Actividad:Errores computacion|  |  |
+|Material:|  |  |
