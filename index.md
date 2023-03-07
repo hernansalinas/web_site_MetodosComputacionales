@@ -51,7 +51,7 @@ de metodos computacionales
 | Semana 5| Actividad | Fecha Entrega|
 |--------|-----------|
 | Raices de polinomios| [Mat 5.1](https://restrepo.github.io/ComputationalMethods/material/one-variable-equations.html){: .btn .btn-purple}  |
-|Actividad| [Act 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_ZerosFunciones.ipynb.ipynb){: .btn .btn-red} | 17/03/23 |
+|Actividad| [Act 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_ZerosFunciones.ipynb){: .btn .btn-red} | 17/03/23 |
 
 
 
