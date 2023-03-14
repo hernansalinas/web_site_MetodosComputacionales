@@ -53,3 +53,4 @@ de metodos computacionales
 | Raices de polinomios| [Mat 5.1](https://restrepo.github.io/ComputationalMethods/material/one-variable-equations.html){: .btn .btn-purple}  |
 |Actividad| [Act 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_ZerosFunciones.ipynb){: .btn .btn-red} | 17/03/23 |
 | Laboratorio| [LAB 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ceros_funciones.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 3/20/2023 |
+| Newton Rapshon| [Mat 5.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/NewtonRapshod/newton_raphson.pdf){: .btn .btn-purple}  |
