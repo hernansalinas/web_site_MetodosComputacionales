@@ -55,3 +55,11 @@ de metodos computacionales
 | Laboratorio| [LAB 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ceros_funciones.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 3/20/2023 |
 | Newton Rapshon, Secante| [Mat 5.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf){: .btn .btn-purple}  |
 | Punto Fijo| [Mat 5.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/raices/PuntoFijo/PuntoFijo.pdf){: .btn .btn-purple}  |
+
+
+
+| Semana 6: Interpolación| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+| Interpolacion Lagrange y lineal|   [Mat 6.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple}  |                   |
+| |  [Notebook]("https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb){: .btn .btn-purple}  |                   |
+|Actividad| [Act 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_06_interpolacion.ipynb){: .btn .btn-red} | 23/03/23 |
