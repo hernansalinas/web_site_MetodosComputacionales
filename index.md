@@ -61,5 +61,5 @@ de metodos computacionales
 | Semana 6: Interpolación| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 | Interpolacion Lagrange y lineal|   [Mat 6.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple}  |                   |
-| |  [Notebook]("https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb){: .btn .btn-purple}  |                   |
+| |  [Notebook](["https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb#scrollTo=b9K_MnFJEZVr)){: .btn .btn-purple}  |                   |
 |Actividad| [Act 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_06_interpolacion.ipynb){: .btn .btn-red} | 23/03/23 |
