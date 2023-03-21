@@ -55,7 +55,7 @@ de metodos computacionales
 | Laboratorio| [LAB 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ceros_funciones.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 3/20/2023 |
 | Newton Rapshon, Secante| [Mat 5.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf){: .btn .btn-purple}  |
 | Punto Fijo| [Mat 5.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/raices/PuntoFijo/PuntoFijo.pdf){: .btn .btn-purple}  |
-
+| Hints: Planetas| [Mat 5.3](https://github.com/hernansalinas/autogrades/blob/main/Laboratorios_Taller/img/radio_planeta.pdf){: .btn .btn-purple}  |
 
 
 | Interpolación| Actividad | Fecha Entrega|
