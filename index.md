@@ -22,23 +22,23 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 de metodos computacionales
 
 
-| Semana 1| Actividad | Fecha Entrega|
+| Python Básico I| Actividad | Fecha Entrega|
 |--------|-----------|
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/2023 |
 
 
 
-| Semana 2| Actividad | Fecha Entrega|
+| Python Básico II| Actividad | Fecha Entrega|
 |--------|-----------|
 | Python Básico II| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| 2/19/2023 |
 
 
 
-| Semana 3| Actividad | Fecha Entrega|
+| Graficación básica| Actividad | Fecha Entrega|
 |--------|-----------|
 | Algoritmia y graficación| [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 |
 
-| Semana 4| Actividad | Fecha Entrega|
+| Pandas básico y representacion Binaria| Actividad | Fecha Entrega|
 |--------|-----------|
 |Pandas Básico| [LAB 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab04_pandas_gpt.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green } [Dataset](https://github.com/hernansalinas/autogrades/tree/main/Laboratorios_Taller/dataset){: .btn .btn-blue }| 3/06/2023|
 |Material: Representacion Binaria|  [Mat 4.1](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html){: .btn .btn-purple}   |
@@ -48,7 +48,7 @@ de metodos computacionales
 
 
 
-| Semana 5| Actividad | Fecha Entrega|
+| Raices de polinomios| Actividad | Fecha Entrega|
 |--------|-----------|
 | Raices de polinomios| [Mat 5.1](https://restrepo.github.io/ComputationalMethods/material/one-variable-equations.html){: .btn .btn-purple}  |
 |Actividad| [Act 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_ZerosFunciones.ipynb){: .btn .btn-red} | 17/03/23 |
@@ -58,7 +58,7 @@ de metodos computacionales
 
 
 
-| Semana 6: Interpolación| Actividad | Fecha Entrega|
+| Interpolación| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 | Interpolacion Lagrange y lineal|   [Mat 6.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple}  |                   |
 |Lagrange Notebook |  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb#scrollTo=b9K_MnFJEZVr){: .btn .btn-purple}  |                   |
