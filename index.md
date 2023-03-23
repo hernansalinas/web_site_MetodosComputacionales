@@ -63,5 +63,7 @@ de metodos computacionales
 | Interpolacion Lagrange y lineal|   [Mat 6.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple}  |                   |
 |Lagrange Notebook |  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation.ipynb#scrollTo=b9K_MnFJEZVr){: .btn .btn-purple}  |                   |
 |Spline Notebook |  [Notebook](https://colab.research.google.com/github/hernansalinas/Metodos_Computacionales_taller/blob/main/book/Sesion07_Interpolation_spline_detallada.ipynb){: .btn .btn-purple}  |                   |
+|Diferencias Divididas |   [Mat 6.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/interpolacion/diferenciasdivididas.pdf){: .btn .btn-purple}  |                   |
+|Diferencias Divididas y Hermite|  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation_details.ipynb){: .btn .btn-purple}  |                   |
 |Actividad| [Act 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_06_interpolacion.ipynb){: .btn .btn-red} | 23/03/23 |
 |Laboratorio | [LAB 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab07_interpolacion.ipynb){: .btn .btn-green }| 3/28/2023 |
