@@ -72,11 +72,11 @@ de metodos computacionales
 
 | Linux Basico |  | |
 |------------------------|-----------| -------------| 
-| Arranque del sistem operativo|   [Mat 7.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-purple}  |                   |
-| Arranque del sistem operativo|   [Mat 7.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
-| Arranque del sistem operativo|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-purple}  |                   |
-| Arranque del sistem operativo|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-purple}  |                   |
-| Arranque del sistem operativo|   [Actividad 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-purple}  |                   |
+| Arranque del sistem operativo|   [Mat 7.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
+| Estructura Directorios|   [Mat 7.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
+| Comandos Basicos|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
+| Distribuciones Linux|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
+| Actividad comandos básicos|   [Actividad 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
 
 
