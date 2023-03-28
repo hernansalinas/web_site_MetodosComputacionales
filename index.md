@@ -67,3 +67,27 @@ de metodos computacionales
 |Diferencias Divididas y Hermite|  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/interpolation_details.ipynb){: .btn .btn-purple}  |                   |
 |Actividad| [Act 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_06_interpolacion.ipynb){: .btn .btn-red} | 23/03/23 |
 |Laboratorio | [LAB 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab07_interpolacion.ipynb){: .btn .btn-green }| 3/28/2023 |
+
+
+
+| Linux Basico |  | |
+|------------------------|-----------| -------------| 
+| Arranque del sistem operativo|   [Mat 7.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-purple}  |                   |
+| Arranque del sistem operativo|   [Mat 7.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
+| Arranque del sistem operativo|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-purple}  |                   |
+| Arranque del sistem operativo|   [Mat 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-purple}  |                   |
+| Arranque del sistem operativo|   [Actividad 7.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-purple}  |                   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
