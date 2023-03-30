@@ -82,6 +82,10 @@ de metodos computacionales
 
 
 
+| Parcial 1 |  | |
+|------------------------|-----------| -------------| 
+|Actividad| [Eval 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Evaluaciones/Evaluacion01_2023_I.ipynb){: .btn .btn-red} | 30/03/23 |
+
 
 
 
