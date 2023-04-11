@@ -80,13 +80,21 @@ de metodos computacionales
 
 
 
-
-
 | Parcial 1 |  | |
 |------------------------|-----------| -------------| 
 |Actividad| [Eval 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Evaluaciones/Evaluacion01_2023_I.ipynb){: .btn .btn-red} | 30/03/23 |
 
 
+
+
+
+
+
+| Derivadas e integrales| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+| Derivada|   [Mat 7.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/DerivadasIntegrales/diferenciacion.pdf){: .btn .btn-purple}  |                   |
+|Derivadas Notebook |  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/numerical-calculus.ipynb){: .btn .btn-purple}  |                   |
+|Actividad| [Act 7.1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_06_interpolacion.ipynb){: .btn .btn-red} | 23/03/23 |
 
 
 
