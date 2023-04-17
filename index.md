@@ -90,7 +90,7 @@ de metodos computacionales
 | Derivada|   [Mat 7.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/DerivadasIntegrales/diferenciacion.pdf){: .btn .btn-purple}  |                   |
 |Derivadas Notebook |  [Notebook](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/numerical-calculus.ipynb){: .btn .btn-purple}  |                   |
 |Actividad| [Act 7.1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_derivadas.ipynb){: .btn .btn-red} |  |
-|Laboratorio| [Lab 7]([https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_derivadas.ipynb](https://colab.research.google.com/drive/1gUt2OSODjRAyCS8queq2SAGQIitvUZ01#scrollTo=8q4c8oS-hpaE)){: .btn .btn-red} | 30 Abril |
+|Laboratorio| [Lab 7](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab08_DerivacionEIntegracion_01.ipynb){: .btn .btn-red} | 30 Abril |
 
 
 
