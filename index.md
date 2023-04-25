@@ -95,7 +95,9 @@ de metodos computacionales
 |Integracion 1| [Act 7.2](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_08_integracion.md){: .btn .btn-red} | 30 Abril |
 |Integracion 1| [Mat 7.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/integracion/Metodos_Computacionales_integracion.pdf){: .btn .btn-red} | 30 Abril |
 
-
+| Algebra lineal| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Matrices| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html){: .btn .btn-red} | 30/03/23 |
 
 
 
