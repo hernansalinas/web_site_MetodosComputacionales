@@ -98,6 +98,8 @@ de metodos computacionales
 | Algebra lineal| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Matrices| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html){: .btn .btn-red} | 30/03/23 |
+|Actividad| [Act 1](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/ActividadMatrices.ipynb){: .btn .btn-red} | 30/03/23 |
+
 
 
 
