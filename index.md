@@ -107,7 +107,9 @@ de metodos computacionales
 |------------------------|-----------| -------------| 
 |Metodo de Euler| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/differential-equations.html){: .btn .btn-red} | 30/03/23 |
 |Actividad| [Act 1](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_10.ipynb){: .btn .btn-red} | 30/03/23 |
-|Laboratorio| [Lab 10](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab10_EcuacionesDiferenciales.ipynb){: .btn .btn-red} | 22/05/23 |
+|Laboratorio| [Lab 10](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab10_EcuacionesDiferenciales.ipynb){: .btn .btn-red} | 31/05/23 |
+|Material| [Mat 10](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/ED/MetodoRungeKutta.pdf){: .btn .btn-red} | 22/05/23 |
+
 
 
 
