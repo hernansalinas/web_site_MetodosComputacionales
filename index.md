@@ -111,6 +111,12 @@ de metodos computacionales
 |Material| [Mat 10](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/presentaciones/ED/MetodoRungeKutta.pdf){: .btn .btn-red} | 22/05/23 |
 |Actividad| [Act_2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb){: .btn .btn-red} | 22/05/23 |
 
+|Actividad: Fit data| [Act_3]([https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_12_Fit_model.ipynb)){: .btn .btn-red} |  |
+
+|Actividad Fit pendulum| [Sol_3]([https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_Sol_pendulo.ipynb)){: .btn .btn-red} | |
+
+|Actividad Fit Distribution| [Act_4]([https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb){: .btn .btn-red](https://github.com/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_13_FitDistribucion.ipynb)} | |
+
 
 
 
