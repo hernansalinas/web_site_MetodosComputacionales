@@ -1,14 +1,14 @@
----
+<!-- ---
 layout: default
 title: hola
 nav_order: 1
 description: "Este es la web del taller de metodos computacionales para fisicos de la 
-Universidad de Antioquia"
-permalink: /
----
+Universidad de Antioquia" -->
+<!-- permalink: /
+--- -->
 
 # Metodos computacionales para fisicos
-{: .fs-9 }
+#{: .fs-9 }
 
 Este es la web del curso de métodos computacionales para físicos de la 
 Universidad de Antioquia
