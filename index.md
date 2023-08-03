@@ -32,3 +32,15 @@ de metodos computacionales
 |--------|-----------|
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/2023 |
 
+
+
+| Linux Basico |  | |
+|------------------------|-----------| -------------| 
+| Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
+| Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
+| Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
+| Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
+| Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
+
+
+
