@@ -47,3 +47,9 @@ de metodos computacionales
 
 
 
+| Python Básico I: Librerias| Actividad | Fecha Entrega|
+|--------|-----------|
+|Material I | [Mat 2](https://restrepo.github.io/ComputationalMethods/material/scientific-libraries.html){: .btn .btn-green }|08/13/2023 |
+|Actividad II: Campo eléctrico| [Act 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
+
+
