@@ -57,9 +57,10 @@ de metodos computacionales
 
 | Python Básico II: Librerias| Actividad | Fecha Entrega|
 |--------|-----------|
-|Librera de archivos|  [Act 3]([https://restrepo.github.io/ComputationalMethods/material/Pandas.html](https://github.com/hernansalinas/autogradesMetodosComputacionales/tree/main/Actividades_clase)|
-)){: .btn .btn-green }|08/13/2023 |
+
 |Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }|08/13/2023 |
+
+|Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| |
 
 
 
