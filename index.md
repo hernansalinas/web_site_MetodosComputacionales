@@ -50,6 +50,16 @@ de metodos computacionales
 | Python Básico I: Librerias| Actividad | Fecha Entrega|
 |--------|-----------|
 |Material I | [Mat 2](https://restrepo.github.io/ComputationalMethods/material/scientific-libraries.html){: .btn .btn-green }|08/13/2023 |
-|Actividad II: Campo eléctrico| [Act 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
+|Actividad II: Campo eléctrico| [Act 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
+|Sol campo electrico| [Sol Act 2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/campoElectrico.ipynb){: .btn .btn-green }|08/13/2023 |
+
+
+
+| Python Básico II: Librerias| Actividad | Fecha Entrega|
+|--------|-----------|
+|Librera de archivos|  [Act 3]([https://restrepo.github.io/ComputationalMethods/material/Pandas.html](https://github.com/hernansalinas/autogradesMetodosComputacionales/tree/main/Actividades_clase)|
+)){: .btn .btn-green }|08/13/2023 |
+|Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }|08/13/2023 |
+
 
 
