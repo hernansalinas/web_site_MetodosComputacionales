@@ -22,19 +22,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 de metodos computacionales
 
 
-| Introduccion|  | |
-|--------|-----------|
-|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
-|Evaluacion | [Eval 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
-
-
-| Python Básico I| Actividad | Fecha Entrega|
-|--------|-----------|
-|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|08/13/2023 |
-|Actividad I | [Act 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_01.md){: .btn .btn-green }|08/13/2023 |
-|Material I | [Mat 1](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/overview-python.ipynb){: .btn .btn-green }|08/13/2023 |
-|Laboratorio I | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_v2_python_basico02.ipynb){: .btn .btn-green }|08/21/2023 |
-
 
 
 | Linux Basico |  | |
@@ -46,9 +33,22 @@ de metodos computacionales
 | Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
 
+| Introduccion|  | |
+|------------------------|-----------| -------------| 
+|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
+|Evaluacion | [Eval 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
+
+
+| Python Básico I| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|08/13/2023 |
+|Actividad I | [Act 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_01.md){: .btn .btn-green }|08/13/2023 |
+|Material I | [Mat 1](https://colab.research.google.com/github/restrepo/ComputationalMethods/blob/master/material/overview-python.ipynb){: .btn .btn-green }|08/13/2023 |
+|Laboratorio I | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_v2_python_basico02.ipynb){: .btn .btn-green }|08/21/2023 |
+
 
 | Python Básico I: Librerias| Actividad | Fecha Entrega|
-|--------|-----------|
+|------------------------|-----------| -------------| 
 |Material I | [Mat 2](https://restrepo.github.io/ComputationalMethods/material/scientific-libraries.html){: .btn .btn-green }|08/13/2023 |
 |Actividad II: Campo eléctrico| [Act 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
 |Sol campo electrico| [Sol Act 2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/campoElectrico.ipynb){: .btn .btn-green }|08/13/2023 |
@@ -56,11 +56,8 @@ de metodos computacionales
 
 
 | Python Básico II: Librerias| Actividad | Fecha Entrega|
-|--------|-----------|
-
-|Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }|08/13/2023 |
-
-|Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| |
-
-
-
+|------------------------|-----------| -------------| 
+|Mto parabolico| [Act 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03.md){: .btn .btn-green }| |
+|Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| 28-Agosto-2023 |
+|Laboratorio| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green }| 4-sep-2023|
+|Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }| |
