@@ -61,4 +61,4 @@ de metodos computacionales
 |Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| 28-Agosto-2023 |
 |Laboratorio| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green }| 4-sep-2023|
 |Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }| |
-|Actividad 4|[Act 4] (https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_04.md)|{: .btn .btn-green }| |
+|Actividad 4|[Act 4](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_04.md)|{: .btn .btn-green }| |
