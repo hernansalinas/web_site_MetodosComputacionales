@@ -65,6 +65,6 @@ de metodos computacionales
 
 
 | Numeros binarios y errores: Librerias| Actividad | Fecha Entrega|
-|Numeros Binarios |[Act 5](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html)|{: .btn .btn-green }| |
-|Actividad 4|[Act 4](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_04.md)|{: .btn .btn-green }| |
+|Numeros Binarios |[Mat 5](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html)|{: .btn .btn-green }| |
+|Actividad 4|[Act 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb)|{: .btn .btn-green }| |
 
