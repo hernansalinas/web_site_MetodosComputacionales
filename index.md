@@ -69,3 +69,7 @@ de metodos computacionales
 |Numeros Binarios |[Mat 5](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html)|{: .btn .btn-green }| |
 |Actividad 4|[Act 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb)|{: .btn .btn-green }| |
 |Errores| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab05_errores.ipynb){: .btn .btn-green }| |
+|SesionErrores| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Sesion03_Epsilon_maquina_y_errores%20(3).ipynb){: .btn .btn-green }| |
+
+
+
