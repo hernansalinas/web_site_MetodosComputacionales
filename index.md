@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Este es la web del taller de metodos computacionales para fisicos de la 
+description: "Este es la web del curso de metodos computacionales para físicos de la 
 Universidad de Antioquia"
 permalink: /
 ---
