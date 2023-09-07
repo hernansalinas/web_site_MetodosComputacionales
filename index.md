@@ -25,10 +25,10 @@ de metodos computacionales
 
 | Raices | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-|Bisección |[Mat 5]()|{: .btn .btn-green }| |
-|Actividad |[Act 5](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_bisection.md)|{: .btn .btn-green }| |
-|Método Newton |[Mat 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf)|{: .btn .btn-green }| |
-|Actividad |[Act 6](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_newton.md)|{: .btn .btn-green }| |
+|Bisección |[Mat 5](https://restrepo.github.io/ComputationalMethods/material/one-variable-equations.html){: .btn .btn-green }| |
+|Actividad |[Act 5](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_bisection.md){: .btn .btn-green }| |
+|Método Newton |[Mat 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf){: .btn .btn-green }| |
+|Actividad |[Act 6](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_newton.md){: .btn .btn-green }| |
 
 
 
