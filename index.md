@@ -23,20 +23,42 @@ de metodos computacionales
 
 
 
-
-| Linux Basico |  | |
+| Raices | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-| Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
-| Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
-| Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
-| Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
-| Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
+|Bisección |[Mat 5]()|{: .btn .btn-green }| |
+|Actividad |[Act 5](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_bisection.md)|{: .btn .btn-green }| |
+|Método Newton |[Mat 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf)|{: .btn .btn-green }| |
+|Actividad |[Act 6](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_newton.md)|{: .btn .btn-green }| |
 
 
-| Introduccion|  | |
+
+
+| Numeros binarios y errores: Librerias| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
-|Evaluacion | [Eval 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
+|Numeros Binarios |[Mat 5](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html)|{: .btn .btn-green }| |
+|Actividad 5|[Act 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb)|{: .btn .btn-green }| |
+|Errores| [Lab 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab05_errores.ipynb){: .btn .btn-green }| |
+|SesionErrores| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Sesion03_Epsilon_maquina_y_errores%20(3).ipynb){: .btn .btn-green }| |
+
+
+
+
+
+| Python Básico II: Librerias| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Mto parabolico| [Act 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03.md){: .btn .btn-green }| |
+|Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| 28-Agosto-2023 |
+|Laboratorio| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green }| 4-sep-2023|
+|Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }| |
+|Pandas| [Act 4](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_04.md){: .btn .btn-green }| |
+
+
+
+| Python Básico I: Librerias| Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Material I | [Mat 2](https://restrepo.github.io/ComputationalMethods/material/scientific-libraries.html){: .btn .btn-green }|08/13/2023 |
+|Actividad II: Campo eléctrico| [Act 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
+|Sol campo electrico| [Sol Act 2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/campoElectrico.ipynb){: .btn .btn-green }|08/13/2023 |
 
 
 | Python Básico I| Actividad | Fecha Entrega|
@@ -47,29 +69,24 @@ de metodos computacionales
 |Laboratorio I | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_v2_python_basico02.ipynb){: .btn .btn-green }|08/21/2023 |
 
 
-| Python Básico I: Librerias| Actividad | Fecha Entrega|
+
+
+
+| Introduccion|  | |
 |------------------------|-----------| -------------| 
-|Material I | [Mat 2](https://restrepo.github.io/ComputationalMethods/material/scientific-libraries.html){: .btn .btn-green }|08/13/2023 |
-|Actividad II: Campo eléctrico| [Act 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green }|08/13/2023 |
-|Sol campo electrico| [Sol Act 2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/campoElectrico.ipynb){: .btn .btn-green }|08/13/2023 |
+|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
+|Evaluacion | [Eval 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
 
 
 
-| Python Básico II: Librerias| Actividad | Fecha Entrega|
+
+
+
+| Linux Basico |  | |
 |------------------------|-----------| -------------| 
-|Mto parabolico| [Act 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03.md){: .btn .btn-green }| |
-|Mto parabolico| [Sol Act 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/movimiento_parabolico.ipynb){: .btn .btn-green }| 28-Agosto-2023 |
-|Laboratorio| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green }| 4-sep-2023|
-|Pandas| [Mat 1](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green }| |
-
-
-
-| Numeros binarios y errores: Librerias| Actividad | Fecha Entrega|
-|------------------------|-----------| -------------| 
-|Numeros Binarios |[Mat 5](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html)|{: .btn .btn-green }| |
-|Actividad 4|[Act 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb)|{: .btn .btn-green }| |
-|Errores| [Lab 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab05_errores.ipynb){: .btn .btn-green }| |
-|SesionErrores| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Sesion03_Epsilon_maquina_y_errores%20(3).ipynb){: .btn .btn-green }| |
-
-
+| Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
+| Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
+| Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
+| Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
+| Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
