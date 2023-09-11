@@ -31,6 +31,9 @@ de metodos computacionales
 |Método Newton |[Mat 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf){: .btn .btn-green }| |
 |Actividad |[Act 7](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_05_newton.md){: .btn .btn-green }| |
 
+|Laboratorio |[Lab 7](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ceros_funciones_2.ipynb){: .btn .btn-green }| |
+
+
 
 
 
