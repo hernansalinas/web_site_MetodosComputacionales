@@ -25,10 +25,10 @@ de metodos computacionales
 
 | Interpolación | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-|Interpolacion Lineal|(https://restrepo.github.io/ComputationalMethods/material/interpolation.html){: .btn .btn-green }               |               |
+|Interpolacion Lineal|[Mat](https://restrepo.github.io/ComputationalMethods/material/interpolation.html){: .btn .btn-green }               |               |
 |Actividad |[Act 7](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_06_Interpolacion_01.md){: .btn .btn-green }| |
-|Interpolacion Lagrange|(https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-green }               |               |
-|Material Interpolación Lagrange|(https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Interpolacion_lagrange.ipynb){: .btn .btn-green }               |               |
+|Interpolacion Lagrange|[Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-green }               |               |
+|Material Interpolación Lagrange|[Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Interpolacion_lagrange.ipynb){: .btn .btn-green }               |               |
 
 
 
