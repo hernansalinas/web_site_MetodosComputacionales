@@ -22,6 +22,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 de metodos computacionales
 
 
+| Derivación e integración | Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Integración |[Act 8](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_08_integracion.md)||
+|Laboratorio |[Lab 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab08_DerivacionEIntegracion_01.ipynb)||
 
 | Interpolación | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
@@ -29,6 +33,7 @@ de metodos computacionales
 |Actividad |[Act 7](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_06_Interpolacion_01.md){: .btn .btn-green }| |
 |Interpolacion Lagrange|[Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-green }               |               |
 |Material Interpolación Lagrange|[Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Interpolacion_lagrange.ipynb){: .btn .btn-green }               |               |
+|Material Spline Detallada|[Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Interpolation_spline_detallada.ipynb){: .btn .btn-green }               |               |
 
 
 
