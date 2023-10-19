@@ -21,6 +21,12 @@ Universidad de Antioquia
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase del 
 de metodos computacionales
 
+| Matrices | Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Material |[Mat 8](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html)||
+|Actividad |[Act 8](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_matrices00.ipynb)||
+
+
 
 | Derivación e integración | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
