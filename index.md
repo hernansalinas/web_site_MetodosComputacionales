@@ -25,7 +25,7 @@ de metodos computacionales
 |------------------------|-----------| -------------| 
 |Material |[Mat 8](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html)||
 |Actividad |[Act 8](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_matrices00.ipynb)||
-|Lab |[Act 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab09_Matrices_v0.ipynb)||
+|Lab |[Lab 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab09_Matrices_v0.ipynb)||
 
 
 
