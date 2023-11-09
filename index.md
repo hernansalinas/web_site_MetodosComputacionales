@@ -28,7 +28,6 @@ de metodos computacionales
 
 
 
-
 | Matrices | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Material |[Mat 8](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html)||
