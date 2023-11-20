@@ -22,10 +22,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 de metodos computacionales
 
 
-| Matrices | Actividad | Fecha Entrega|
+
+
+
+| Ecuaciones Diferenciales | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Actividad |[Act 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_10_ED01.ipynb)||
-
+|Lab: Atractor Lorentz |[Lab ED 1 ](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab10_AtractorLorentz.ipynb)||
+|Lab: Problema General |[Lab ED 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab10_ProblemaGeneral.ipynb)||
 
 
 | Matrices | Actividad | Fecha Entrega|
@@ -40,6 +44,8 @@ de metodos computacionales
 |------------------------|-----------| -------------| 
 |Integración |[Act 8](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_08_integracion.md)||
 |Laboratorio |[Lab 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab08_DerivacionEIntegracion_01.ipynb)||
+
+
 
 | Interpolación | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
