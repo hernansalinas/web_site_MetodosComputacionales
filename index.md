@@ -24,6 +24,10 @@ de metodos computacionales
 
 
 
+| Examen Final | Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Examen Final |[Final 8](https://github.com/hernansalinas/autogrades/tree/main/Evaluaciones/EvaluacionFinal_2023_I.ipynb)||
+
 
 | Ecuaciones Diferenciales | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
