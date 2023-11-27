@@ -7,7 +7,7 @@ Universidad de Antioquia"
 permalink: /
 ---
 
-# Metodos computacionales para fisicos
+# Metodos computacionales para físicos
 {: .fs-9 }
 
 Este es la web del curso de métodos computacionales para físicos de la 
@@ -27,6 +27,7 @@ de metodos computacionales
 | Examen Final | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Examen Final |[Final 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Evaluaciones/EvaluacionFinal_2023_I.ipynb)||
+|Examen Final |[Sol final](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Evaluaciones/SolEvaluacionFinal_2023_I.ipynb)||
 
 
 | Ecuaciones Diferenciales | Actividad | Fecha Entrega|
