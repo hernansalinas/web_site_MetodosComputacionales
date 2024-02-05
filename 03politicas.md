@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Politicas
-nav_order: 3
+nav_order: 4
 ---
 
 
@@ -15,6 +15,6 @@ La evaluación está diseñada para fomentar en el estudiante el cuestionamiento
 |----|-------|
 |Tipo| Porcentaje|
 |Tareas (hasta dos actividades semanal)|	 20%|
-|Laboratorios. (Hasta 12 laboratorios)	| 20%
-|2 Proyectos (Hasta 2 proyectos)	 |30%|
-|3 Parciales 	 |30%|
+|Laboratorios  (Hasta 12 laboratorios)	| 20%
+|2 Proyectos (Hasta 2 proyectos)	 |20%|
+|3 Parciales 	 |40%|
