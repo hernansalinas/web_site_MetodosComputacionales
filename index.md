@@ -30,7 +30,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|08/13/2023 |
+|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|12-02-2024 |
 
 
 
