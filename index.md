@@ -26,13 +26,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Introduccion|  | |
 |------------------------|-----------| -------------| 
 |Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
-|Evaluacion | [Eval 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
 
 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|08/13/2023 |
-
 
 
 
