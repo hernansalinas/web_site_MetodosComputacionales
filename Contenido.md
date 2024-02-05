@@ -9,7 +9,7 @@ title: Contenido
 
 # Contenido Resumido
 
-- 1 Preliminares computacionales.
+- Preliminares computacionales.
     - Repaso breve del Python   Estructura básica de un programa en Python.
     
     - Numpy y rutinas de graficación. 
@@ -21,7 +21,7 @@ title: Contenido
     - Errores: redondeo, truncamiento, sustracción cancelativa, precisión
     de la máquina.
 
-- 2 Ecuaciones de una variable.
+- Ecuaciones de una variable.
 
     - Algoritmo de la bisección.
     
@@ -43,7 +43,7 @@ title: Contenido
     - Interpolación con splines cúbicos.
 
 
-- 4. Cálculo numérico
+- Cálculo numérico
 
     - Diferenciación numérica, método de la diferencia hacia adelante y
     de la diferencia central, segundas derivadas numéricas, errores.
@@ -53,7 +53,7 @@ title: Contenido
     - Integrales impropias.
     - Integrales múltiples.
 
-- 5. Álgebra lineal numérica
+- Álgebra lineal numérica
 
     - Solución de Sistemas de ecuaciones lineales.
     - Matrices transpuesta, conjugada, hermítica, inversa.
@@ -62,7 +62,7 @@ title: Contenido
     - Autovalores y autofunciones.
 
 
-- 6. Ecuaciones diferenciales
+- Ecuaciones diferenciales
 
     - Problemas con condiciones iniciales.
     - Métodos de primer orden: método de Euler.
@@ -71,7 +71,7 @@ title: Contenido
     - Sistemas de ecuaciones diferenciales.
     - Problemas con condiciones frontera.
 
-- 7. Estadistica
+- Estadistica
 
     - Generación de números aleatorios con distribuciones normal,
     - gaussiana y exponencial decreciente.
