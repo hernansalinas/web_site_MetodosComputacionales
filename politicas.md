@@ -72,18 +72,30 @@ Solucionar problemas semejantes a los expuestos en clase con los mismos métodos
 # Contenido Resumido
 
 - 1. Preliminares computacionales.
-    Repaso breve del Python   Estructura básica de un programa en Python.
+    - Repaso breve del Python   Estructura básica de un programa en Python.
     
-    Numpy y rutinas de graficación. 
+    - Numpy y rutinas de graficación. 
     
-    Operaciones aritméticas con reales y complejos.
+    - Operaciones aritméticas con reales y complejos.
     
-    Números aleatorios, método del congruente lineal y problemas.
+    - Números aleatorios, método del congruente lineal y problemas.
     
-    Errores: redondeo, truncamiento, sustracción cancelativa, precisión
+    - Errores: redondeo, truncamiento, sustracción cancelativa, precisión
     de la máquina.
 
-- 2. Ecuaciones de una variable
+- 2. Ecuaciones de una variable.
+
+    - Algoritmo de la bisección.
+    
+    - Algoritmo de la regla falsa.
+    
+    - Algoritmo de la secante.
+    
+    - Algoritmo de Newton-Raphson.
+    
+    - Ecuaciones trascendentales.
+
+
 - 3. Métodos de interpolación
 - 4. Cálculo numérico
 - 5. Álgebra lineal numérica
