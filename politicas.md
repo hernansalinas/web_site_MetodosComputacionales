@@ -12,17 +12,13 @@ abordados desde un contexto formal pero manteniendo una fuerte componente práct
 computacional, ilustrando además algunas aplicaciones en problemas de interés actual.
 
 
-# Justiticación
+# Justificación
 
 A medida que entendemos mejor nuestro Universo, los fenómenos involucrados exhiben
 una creciente complejidad y las soluciones numéricas son cada vez más útiles, necesarias
 y comúnes en física y astronomía. Es por lo tanto de suma importancia entender los
 métodos numéricos, sus capacidades y límites para la solución de problemas, además de
 una correcta implementación computacional.
-
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
 
 
 
@@ -73,7 +69,26 @@ etc. Hay alrededor de 40 000 aplicaciones que se pueden instalar en el Python.  
 Solucionar problemas semejantes a los expuestos en clase con los mismos métodos numéricos.
 
 
+# Contenido Resumido
 
+- 1. Preliminares computacionales.
+    Repaso breve del Python   Estructura básica de un programa en Python.
+    
+    Numpy y rutinas de graficación. 
+    
+    Operaciones aritméticas con reales y complejos.
+    
+    Números aleatorios, método del congruente lineal y problemas.
+    
+    Errores: redondeo, truncamiento, sustracción cancelativa, precisión
+    de la máquina.
+
+- 2. Ecuaciones de una variable
+- 3. Métodos de interpolación
+- 4. Cálculo numérico
+- 5. Álgebra lineal numérica
+- 6. Ecuaciones diferenciales
+- 7. Estadistica
 
 ---
 
