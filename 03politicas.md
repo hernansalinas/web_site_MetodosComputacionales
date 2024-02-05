@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-Evaluación del curso.
+# Evaluación del curso.
 
 
 La evaluación está diseñada para fomentar en el estudiante el cuestionamiento continuo y retroalimentación rápida. El objetivo de las actividades de clase es poner en práctica lo comunicado por el profesor y los elementos básicos de la teoría. Se realizarán actividades constantes en las sesiones de clase. Toda evaluación del curso es acumulativa. 

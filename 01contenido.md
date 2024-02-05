@@ -8,7 +8,7 @@ nav_order: 2
 
 # Contenido Resumido
 
-- Preliminares computacionales.
+1. Preliminares computacionales.
     - Repaso breve del Python   Estructura básica de un programa en Python.
     
     - Numpy y rutinas de graficación. 
@@ -20,7 +20,7 @@ nav_order: 2
     - Errores: redondeo, truncamiento, sustracción cancelativa, precisión
     de la máquina.
 
-- Ecuaciones de una variable.
+2. Ecuaciones de una variable.
 
     - Algoritmo de la bisección.
     
@@ -33,7 +33,7 @@ nav_order: 2
     - Ecuaciones trascendentales.
 
 
-- 3. Métodos de interpolación
+3. Métodos de interpolación
 
     - Interpolación lineal.
     - Polinomio de Lagrange, problemas que conlleva, y soluciones.
@@ -42,7 +42,7 @@ nav_order: 2
     - Interpolación con splines cúbicos.
 
 
-- Cálculo numérico
+4. Cálculo numérico
 
     - Diferenciación numérica, método de la diferencia hacia adelante y
     de la diferencia central, segundas derivadas numéricas, errores.
@@ -52,7 +52,7 @@ nav_order: 2
     - Integrales impropias.
     - Integrales múltiples.
 
-- Álgebra lineal numérica
+5. Álgebra lineal numérica
 
     - Solución de Sistemas de ecuaciones lineales.
     - Matrices transpuesta, conjugada, hermítica, inversa.
@@ -61,7 +61,7 @@ nav_order: 2
     - Autovalores y autofunciones.
 
 
-- Ecuaciones diferenciales
+6. Ecuaciones diferenciales
 
     - Problemas con condiciones iniciales.
     - Métodos de primer orden: método de Euler.
@@ -70,7 +70,8 @@ nav_order: 2
     - Sistemas de ecuaciones diferenciales.
     - Problemas con condiciones frontera.
 
-- Estadistica
+
+7. Estadistica
 
     - Generación de números aleatorios con distribuciones normal,
     - gaussiana y exponencial decreciente.
