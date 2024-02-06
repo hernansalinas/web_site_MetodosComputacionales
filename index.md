@@ -34,7 +34,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 
 
-| Linux Basico |  | |
+| Linux Básico |  | |
 |------------------------|-----------| -------------| 
 | Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
 | Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
