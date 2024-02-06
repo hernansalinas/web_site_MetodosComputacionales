@@ -26,6 +26,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Introducción|  | |
 |------------------------|-----------| -------------| 
 |Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
+|Introducción | [ComputacionCientifica](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/introduccion/Presentation1.pptx){: .btn .btn-green }| |
+
 
 
 | Python Básico I| Actividad | Fecha Entrega|
