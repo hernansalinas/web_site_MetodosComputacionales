@@ -11,24 +11,27 @@ La metodología del curso de métodos computacionales para físicos busca en el 
 se realizaran actividades, laboratorios y parciales a lo largo del semestre. En algunas sesiones de clases, se dejarán 
 lectura previas a clase para que puedan ser discutidas durante las clases teóricas.
 
-# Evaluación del curso.
 
+
+# Evaluación del curso.
 
 La evaluación está diseñada para fomentar en el estudiante el cuestionamiento continuo y retroalimentación rápida. El objetivo de las actividades de clase es poner en práctica lo comunicado por el profesor y los elementos básicos de la teoría. Se realizarán actividades constantes en las sesiones de clase. Toda evaluación del curso es acumulativa. 
 
 
 
 
-|----|-------|
+
 |Tipo| Porcentaje|
+|----|-------|
 |Tareas (Hasta dos actividades semanales)|	 20%|
 |Laboratorios  (Hasta 12 laboratorios)	| 20%
 |Proyecto : Anteproyecto, Exposición, Desarrolo     |20%|
 |3 Parciales 	 |40%|
 
 
-|----|-------|
+
 |Evaluación| Unidades|
+|----|-------|
 |1| 10%	 Unidad 1, 2|
 |2| 15% Unidad 1, 2, 3, 4 |
 |3| 15% Todo el curso|
