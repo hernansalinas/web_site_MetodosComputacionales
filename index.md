@@ -18,7 +18,7 @@ Universidad de Antioquia
 [Libro guia](https://restrepo.github.io/ComputationalMethods/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
-En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase del de metodos computacionales
+En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
 
@@ -31,6 +31,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|12-02-2024 |
+
 
 <!-- 
 
