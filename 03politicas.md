@@ -5,6 +5,12 @@ nav_order: 4
 ---
 
 
+# Metodología
+
+La metodología del curso de métodos computacionales para físicos busca en el estudiante la practica constante, por ello 
+se realizaran actividades, laboratorios y parciales a lo largo del semestre. En algunas sesiones de clases, se dejarán 
+lectura previas a clase para que puedan ser discutidas durante las clases teóricas.
+
 # Evaluación del curso.
 
 
@@ -17,7 +23,7 @@ La evaluación está diseñada para fomentar en el estudiante el cuestionamiento
 |Tipo| Porcentaje|
 |Tareas (Hasta dos actividades semanales)|	 20%|
 |Laboratorios  (Hasta 12 laboratorios)	| 20%
-|Proyecto : Anteproyecto, Exposición, Programacion    |20%|
+|Proyecto : Anteproyecto, Exposición, Desarrolo     |20%|
 |3 Parciales 	 |40%|
 
 
@@ -34,7 +40,7 @@ La evaluación está diseñada para fomentar en el estudiante el cuestionamiento
 El proyecto se realizará máximo  parejas, deberá existir un anteproyecto discutivo previamente con el profesor, en el anteproyecto se deberá especificar el objetivo central del proyecto y tres objetivos específicos, se entregará la semana número 12 del curso a través del git hub en el formato suministrado por el profesor. Al final de semestre se realizará una exposicion del proyecto con todos los compañeros, duración de exposición máximo 10min. 
 
 
-|Objetivo| Metodologia|
+|Objetivo| Metodología|
 |----|-------|
 |General     | |
 |Especifico 1| Metodología para resolver el objetivo 1|
@@ -45,7 +51,7 @@ El proyecto se realizará máximo  parejas, deberá existir un anteproyecto disc
 
 
 
-# Exposicion
+# Exposición
 
 1. Introduccion 
 2. Problema 
