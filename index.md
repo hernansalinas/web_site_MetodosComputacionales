@@ -22,11 +22,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 
 
-
 | Introducción|  | |
 |------------------------|-----------| -------------| 
 |Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
-|Introducción | [ComputacionCientifica](https://docs.google.com/presentation/d/e/2PACX-1vS7D8S4clvKuKcIkxZyQIE3A-_Pg5nInVerke6wy0rr_yZZZVX-VC-As9uFTFZZOg/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
+|Introducción | [Computacion Científica](https://docs.google.com/presentation/d/e/2PACX-1vS7D8S4clvKuKcIkxZyQIE3A-_Pg5nInVerke6wy0rr_yZZZVX-VC-As9uFTFZZOg/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
+|GitHub: Entrega Tareas | [Entrega](https://docs.google.com/document/d/e/2PACX-1vR_IMR9RY5LTLA6v_9ZFV_FtGDrHZL5lKxC8U_bb_vdh1oYAkXKZozkZQibxqgTSwup7VnEbxAb-j1_/pub){: .btn .btn-green }| |
 
 
 
