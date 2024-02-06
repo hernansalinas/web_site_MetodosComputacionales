@@ -10,4 +10,3 @@ nav_order: 4
 - Presentaciones: Almancenadas  en el drive 
 - Pagina web: Publicada a través de github pages
 
-
