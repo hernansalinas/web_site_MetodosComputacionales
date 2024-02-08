@@ -37,11 +37,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 | Linux Básico |  | |
 |------------------------|-----------| -------------| 
-| Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
-| Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
-| Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
-| Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
-| Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
+| Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
+| Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
+| Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
+| Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
+| Actividad comandos básicos|   [Actividad 1.1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
 
 <!-- | Linux Basico |  | |
