@@ -21,17 +21,12 @@ Universidad de Antioquia
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
-| Introducción|  | |
-|------------------------|-----------| -------------| 
-|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
-|Introducción | [Computacion Científica](https://docs.google.com/presentation/d/e/2PACX-1vS7D8S4clvKuKcIkxZyQIE3A-_Pg5nInVerke6wy0rr_yZZZVX-VC-As9uFTFZZOg/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
-|GitHub: Entrega Tareas | [Guia](https://docs.google.com/presentation/d/e/2PACX-1vQNJL1EZyNPi1CQG2YxYfFzq26Ip7j9f1HiLNWPrUrT3AL6rXsvACe9AhSNIM4mziOzGoJqHlNo9Lse/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
-
 
 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|12-02-2024 |
+|Python Básico II | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }|12-02-2024 |
 
 
 
@@ -44,6 +39,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Actividad comandos básicos|   [Actividad 1.1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
 
+
+| Introducción|  | |
+|------------------------|-----------| -------------| 
+|Programa del curso | [Programa 1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/330ec48583536f35022844a7ff08c305de558070/presentaciones/introduccion/programa-2.pdf){: .btn .btn-green }| |
+|Introducción | [Computacion Científica](https://docs.google.com/presentation/d/e/2PACX-1vS7D8S4clvKuKcIkxZyQIE3A-_Pg5nInVerke6wy0rr_yZZZVX-VC-As9uFTFZZOg/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
+|GitHub: Entrega Tareas | [Guia](https://docs.google.com/presentation/d/e/2PACX-1vQNJL1EZyNPi1CQG2YxYfFzq26Ip7j9f1HiLNWPrUrT3AL6rXsvACe9AhSNIM4mziOzGoJqHlNo9Lse/pub?start=false&loop=false&delayms=3000){: .btn .btn-green }| |
+
 <!-- | Linux Basico |  | |
 |------------------------|-----------| -------------| 
 | Arranque del sistem operativo|   [Mat 1.1](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
@@ -52,3 +54,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
 | Actividad comandos básicos|   [Actividad 1.5](https://github.com/hernansalinas/Metodos_Computacionales_taller/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
  -->
+
+
+
+
