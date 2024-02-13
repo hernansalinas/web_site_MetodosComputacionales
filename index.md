@@ -25,7 +25,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |------------------------|-----------| -------------| 
 |Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|12-02-2024 |
 |Python Básico I | [ACT 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_01.md){: .btn .btn-green }|20-02-2024 |
-|Lecturas | [LEC 1](https://restrepo.github.io/ComputationalMethods/material/overview-python.html){: .btn .btn-green }| |
+|Lecturas | [LEC 1](https://restrepo.github.io/ComputationalMethods/material/overview-python.html){: .btn .btn-purple }| |
 |Python Básico II | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }|26-02-2024 |
 
 
