@@ -23,7 +23,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Python graficación|Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Graficación      | [LEC 2](https://restrepo.github.io/ComputationalMethods/material/matplotlib.html){: .btn .btn-purple }  |              |
-| Material Clase   | [Notebook](https://colab.research.google.com/drive/1AWBAYzNMH-uzOXwEm1du2FfMIMBghx1D#scrollTo=cb1787e3){: .btn .btn-purple } |              |
+| Material Clase 1  | [Notebook](https://colab.research.google.com/drive/1AWBAYzNMH-uzOXwEm1du2FfMIMBghx1D#scrollTo=cb1787e3){: .btn .btn-purple } |              |
 | Actividad        | [ACT 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green} |  Febrero 27            |
 
 
