@@ -25,7 +25,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Graficación      | [LEC 2](https://restrepo.github.io/ComputationalMethods/material/matplotlib.html){: .btn .btn-purple }  |              |
 | Material Clase 1  | [Notebook](https://colab.research.google.com/drive/1AWBAYzNMH-uzOXwEm1du2FfMIMBghx1D#scrollTo=cb1787e3){: .btn .btn-purple } |              |
 | Actividad        | [ACT 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green} |  Febrero 27            |
+| Laboratorio        | [Lab 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 
+
+Lab03_Algoritmia_y_graficacion
 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
@@ -42,7 +45,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Estructura Directorios|   [Mat 1.2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
 | Comandos Basicos|   [Mat 1.3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
 | Distribuciones Linux|   [Mat 1.4](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
-| Actividad comandos básicos|   [Actividad 1.1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
+| Actividad comandos básicos|   [Actividad 0](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Actividad00.md){: .btn .btn-green}  |                   |
 
 
 | Introducción|  | |
