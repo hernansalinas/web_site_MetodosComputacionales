@@ -20,6 +20,12 @@ Universidad de Antioquia
 
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
+
+|Python Librerias |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03.md){: .btn .btn-green} |              |
+
+
 |Python graficación|Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Graficación      | [LEC 2](https://restrepo.github.io/ComputationalMethods/material/matplotlib.html){: .btn .btn-purple }  |              |
