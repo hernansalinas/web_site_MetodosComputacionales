@@ -24,7 +24,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Python Librerias |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03.md){: .btn .btn-green} |              |
-| Numpy        | [Lec ](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf
+| Numpy        | [Lec ](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf)
 ){: .btn .btn-green} |              |
 
 
