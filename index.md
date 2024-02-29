@@ -23,7 +23,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 |Python Librerias |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
-| Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03_1.md){: .btn .btn-green} |  04/04/2024           |
+| Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03_1.md){: .btn .btn-green} |  Martes 4 Marzo       |
 | Numpy        | [Lec 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf){: .btn .btn-green} |              |
 | Pandas        | [Lec 4](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-green} |              |
 
