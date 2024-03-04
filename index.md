@@ -26,6 +26,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03_1.md){: .btn .btn-green} |  Martes 4 Marzo       |
 | Numpy        | [LEC 3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf){: .btn .btn-purple} |              |
 | Pandas        | [LEC 4](https://restrepo.github.io/ComputationalMethods/material/Pandas.html){: .btn .btn-purple} |              |
+| Pandas        | [LAB 4](https://cdudea.org/hub/login){: .btn .btn-green} |              |
 
 
 
