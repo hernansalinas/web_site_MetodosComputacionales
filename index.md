@@ -21,6 +21,13 @@ Universidad de Antioquia
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
+
+|Python Librerias |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Actividad        | [ACT 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb){: .btn .btn-green} |  Martes 11 Marzo       |
+| Teoria de Errores        | [LEC 4](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html){: .btn .btn-purple} |              |
+
+
 |Python Librerias |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Actividad        | [ACT 3](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_03_1.md){: .btn .btn-green} |  Martes 4 Marzo       |
