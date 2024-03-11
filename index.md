@@ -27,6 +27,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Actividad        | [ACT 4](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_04_Binarios_Errores.ipynb){: .btn .btn-green} |  Martes 11 Marzo       |
 | Teoria de Errores        | [LEC 4](https://restrepo.github.io/ComputationalMethods/material/computer-arithmetics.html){: .btn .btn-purple} |              |
 | Representacion 32 y 64bit  | [LEC 5](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Teoria_errores.ipynb){: .btn .btn-purple} |              |
+| Laboratorio        | [LAB 5](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab05_errores.ipynb){: .btn .btn-green} |  Lunes 18 Marzo            |
+
 
 
 |Python Librerias |Actividad|Fecha Entrega|
