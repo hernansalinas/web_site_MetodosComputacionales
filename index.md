@@ -21,6 +21,12 @@ Universidad de Antioquia
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
+|Ceros de funciones |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Biseccion        | [ACT 5](Implementar el metodo de la biseccion){: .btn .btn-green} |  Martes 18 Marzo       |
+| Newthon        | [ACT 6](Implementar el metodo de Newthon){: .btn .btn-green} |  Martes 18 Marzo       |
+| Newthon-Rhapson        | [LEC 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf)|         |
+
 
 |Errores Computación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
