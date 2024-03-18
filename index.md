@@ -21,6 +21,11 @@ Universidad de Antioquia
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
+|Notas  |||
+|------------------|-----------| -------------| 
+| Lab: Prof. Juan Marcos        | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcdP6aEg8DBFjyEfDGTLnkTu5QTb9Jktw8m0zuw7uVXkC8FHZ6BZMp23eradiytQ/pubhtml?gid=49001877&single=true){: .btn .btn-green} |  Martes 19 Marzo       |
+
+
 |Ceros de funciones |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Biseccion, Newton        | [ACT 5, 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_06_ZerosFunciones.ipynb){: .btn .btn-green} |  Martes 19 Marzo       |
