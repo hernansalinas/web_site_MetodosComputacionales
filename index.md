@@ -26,6 +26,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Biseccion        | [ACT 5](Implementar el metodo de la biseccion){: .btn .btn-green} |  Martes 18 Marzo       |
 | Newthon        | [ACT 6](Implementar el metodo de Newthon){: .btn .btn-green} |  Martes 18 Marzo       |
 | Newthon-Rhapson        | [LEC 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf)|         |
+| Bisección        | [Mat 5](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
+| Newthon-Rhapson        | [Mat 5.1](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
+
 
 
 |Errores Computación |Actividad|Fecha Entrega|
