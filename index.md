@@ -33,6 +33,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Bisección        | [Mat 5](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
 | Newthon-Rhapson        | [Mat 5.1](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
 
+| Laboratorio        | [Lab 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ec_variable.ipynb
+){: .btn .btn-purble}|         |
+
 
 
 |Errores Computación |Actividad|Fecha Entrega|
