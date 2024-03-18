@@ -30,9 +30,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |------------------|-----------| -------------| 
 | Biseccion, Newton        | [ACT 5, 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_05_06_ZerosFunciones.ipynb){: .btn .btn-green} |  Martes 19 Marzo       |
 | Newthon-Rhapson        | [LEC 5](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/raices/NewtonRapshod/newton_raphson.pdf)|         |
-| Bisección        | [Mat 5](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
-| Newthon-Rhapson        | [Mat 5.1](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purble}|         |
-| Laboratorio        | [Lab 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ec_variable.ipynb){: .btn .btn-purble}|         |
+| Bisección        | [Mat 5](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purple}|         |
+| Newthon-Rhapson        | [Mat 5.1](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Raices/Raices_biseccion_2024.ipynb){: .btn .btn-purple}|         |
+| Laboratorio        | [Lab 6](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab06_ec_variable.ipynb){: .btn .btn-green}|         |
 
 
 
