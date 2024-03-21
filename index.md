@@ -20,6 +20,9 @@ Universidad de Antioquia
 
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
+|Examen 1 |||
+|[Parcial 1](https://colab.research.google.com/github/hernansalinas/autogradesMetodosComputacionales/blob/main/Evaluaciones/Examen01_2024_1.ipynb){: .btn .btn-green}|||
+
 
 |Notas  |||
 |------------------|-----------| -------------| 
