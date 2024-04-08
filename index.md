@@ -27,7 +27,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Notas  |||
 |------------------|-----------| -------------| 
 | Lab: Prof. Juan Marcos        | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcdP6aEg8DBFjyEfDGTLnkTu5QTb9Jktw8m0zuw7uVXkC8FHZ6BZMp23eradiytQ/pubhtml?gid=49001877&single=true){: .btn .btn-green} |  Martes 19 Marzo       |
-| Actividades y parcial: Prof. Hernan | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6wC3xOmUus2f-Q_j9L6teKQa_16Vr7N7Y3XQdok1kLzhC90DpSzTTrYm3wuCgrA/pub?output=xlsx){: .btn .btn-green} | |
+| Actividades y parcial: Prof. Hernan | [Notas](https://docs.google.com/spreadsheets/d/1Xo7i4dSdGCR32kP-afV3fRPlDZRQ_f3v/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green} | |
 
 
 
