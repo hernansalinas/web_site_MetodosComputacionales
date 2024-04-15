@@ -23,7 +23,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Ceros de funciones |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Interpolación        | [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab07_InterpolacionV2.ipynb){: .btn .btn-green} |        |
-| Interpolación        | [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_Interpolation_spline_detallada.pynb){: .btn .btn-green} |        |
+| Interpolación        | [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_Interpolation_spline_detallada.ipynb){: .btn .btn-green} |        |
 
 
 
