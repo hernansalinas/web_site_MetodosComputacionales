@@ -23,7 +23,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 |Intución Derivada numérica| [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
-| | [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
 
 
 
