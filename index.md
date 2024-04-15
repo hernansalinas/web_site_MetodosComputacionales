@@ -7,11 +7,10 @@ Universidad de Antioquia"
 permalink: /
 ---
 
-# Métodos computacionales para físicos
+# Métodos computacionales 
 {: .fs-9 }
 
-Este es la web del curso de métodos computacionales para físicos de la 
-Universidad de Antioquia
+Este es la web del curso de métodos computacionales 
 {: .fs-6 .fw-300 }
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
