@@ -31,9 +31,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |------------------|-----------| -------------| 
 | Interpolación        | [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab07_InterpolacionV2.ipynb){: .btn .btn-green} |        |
 | Interpolación        | [Act 7](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_Interpolation_spline_detallada.ipynb){: .btn .btn-green} |  18/04/2024      |
-| Interpolación | [Presentacion](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-green} |        |
-| Interpolación Lagrange | [Notebook](){: .btn .btn-green} |        |
-| Interpolación Lineal | [Notebook](https://colab.research.google.com/drive/1HoTrYvX1Hhh__8o7LmVdY8BCEESAkDm3?usp=share_link){: .btn .btn-green} |        |
+| Interpolación | [Presentacion](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple} |        |
+| Interpolación Lagrange | [Notebook](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-purple} |        |
+| Interpolación Lineal | [Notebook](https://colab.research.google.com/drive/1HoTrYvX1Hhh__8o7LmVdY8BCEESAkDm3?usp=share_link){: .btn .btn-purple} |        |
 
 
 
