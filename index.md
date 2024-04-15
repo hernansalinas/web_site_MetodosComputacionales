@@ -2,8 +2,8 @@
 layout: default
 title: Clases
 nav_order: 1
-description: "Este es la web del curso de metodos computacionales para físicos de la 
-Universidad de Antioquia"
+description: "Este es la web del curso de metodos computacionales. 
+Instituo de Física. Universidad de Antioquia"
 permalink: /
 ---
 
