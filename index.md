@@ -20,10 +20,20 @@ Universidad de Antioquia
 
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
-|Ceros de funciones |Actividad|Fecha Entrega|
+|Diferenciación |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+|Intución Derivada numérica| [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
+| | [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
+
+
+
+|Interpolación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Interpolación        | [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab07_InterpolacionV2.ipynb){: .btn .btn-green} |        |
-| Interpolación        | [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_Interpolation_spline_detallada.ipynb){: .btn .btn-green} |        |
+| Interpolación        | [Act 7](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_07_Interpolation_spline_detallada.ipynb){: .btn .btn-green} |        |
+| Interpolación | [Presentacion](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/interpolacion/interpolacionLagrange.pdf){: .btn .btn-green} |        |
+| Interpolación Lagrange | [Notebook](){: .btn .btn-green} |        |
+| Interpolación Lineal | [Notebook](https://colab.research.google.com/drive/1HoTrYvX1Hhh__8o7LmVdY8BCEESAkDm3?usp=share_link){: .btn .btn-green} |        |
 
 
 
