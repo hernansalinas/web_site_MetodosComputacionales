@@ -24,6 +24,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Intución Derivada numérica| [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
 |Diferencias centrales| [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_08_diferenciacion.ipynb)||
 |Diferencias centrales| [Presentacion](https://drive.google.com/file/d/1O4zy3hXlgaVHXNs9lttvLkFlbU6TfjDo/view?usp=sharing)||
+|Laboratorio| [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab08_Derivadas_e_integrales.ipynb)||
+
+
 
 
 
