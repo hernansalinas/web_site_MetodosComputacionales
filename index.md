@@ -21,6 +21,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 |Integracion |Actividad|Fecha Entrega|
 |Integracion| [Mat](https://drive.google.com/file/d/1YGhB-d31lR1ehhSizLhgn-sbxFdlLTnt/view?usp=share_link)||
+|Integracion Gaussiana| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/integracion/cuadraturaGauss.pdf)||
+
+
 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
