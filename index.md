@@ -19,6 +19,14 @@ Este es la web del curso de métodos computacionales
 
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
+
+|Matrices |Actividad|Fecha Entrega|
+|Matrices| [Act 9](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_09_Matrices2.ipynb)||
+|Material| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf)||
+|Material| [Mat](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html)||
+
+
+
 |Integracion |Actividad|Fecha Entrega|
 |Integracion| [Mat](https://drive.google.com/file/d/1YGhB-d31lR1ehhSizLhgn-sbxFdlLTnt/view?usp=share_link)||
 |Integracion Gaussiana| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/integracion/cuadraturaGauss.pdf)||
@@ -28,7 +36,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 |Intución Derivada numérica| [Mat](https://colab.research.google.com/drive/1pohwFa4h2Ewc2YTpnScsz2PYbICgQhW1?usp=sharing)||
-|Diferencias centrales| [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_08_diferenciacion.ipynb)||
+|Diferencias centrales| [Act 8](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_08_diferenciacion.ipynb)||
 |Diferencias centrales| [Presentacion](https://drive.google.com/file/d/1O4zy3hXlgaVHXNs9lttvLkFlbU6TfjDo/view?usp=sharing)||
 |Laboratorio| [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab08_Derivadas_e_integrales.ipynb)||
 
