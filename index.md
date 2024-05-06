@@ -24,6 +24,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Matrices| [Act 9](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_09_Matrices2.ipynb)||
 |Material| [Mat](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/presentaciones/numpy_intro.pdf)||
 |Material| [Mat](https://restrepo.github.io/ComputationalMethods/material/linear-algebra.html)||
+|Laboratorio| [Lab](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab09_Matrices.ipynb
+)||
+
 
 
 
