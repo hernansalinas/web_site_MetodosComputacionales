@@ -22,9 +22,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 |Ecuaciones Diferenciales |Actividad|Fecha Entrega|
 |Metodo de Euler| [Mat](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/TheGameOfLife.ipynb)||
-|Péndulo simple| [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_10_Euler.ipynb)||
-
-
+|RK4| [Mat](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb)||
+|Péndulo simple RK4-Euler| [Act](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_10_Euler.ipynb)||
 
 
 |Repaso |Actividad|Fecha Entrega|
