@@ -20,6 +20,13 @@ Este es la web del curso de métodos computacionales
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
+
+|Examen Final |||
+|Examen Final| [Final](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/ExamenFinal_2024_1.ipynb)||
+
+
+
+
 |Ecuaciones Diferenciales |Actividad|Fecha Entrega|
 |Metodo de Euler| [Mat](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/TheGameOfLife.ipynb)||
 |RK4| [Mat](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Actividades_clase/Actividad_11_RK4.ipynb)||
