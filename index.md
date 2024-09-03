@@ -20,7 +20,7 @@ Este es la web del curso de métodos computacionales
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 
-
+<!-- 
 |Examen Final |||
 |Examen Final| [Final](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/ExamenFinal_2024_1.ipynb)||
 
@@ -133,7 +133,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Lecturas | [LEC 1](https://restrepo.github.io/ComputationalMethods/material/overview-python.html){: .btn .btn-purple }| |
 |Python Básico II | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }|26-02-2024 |
 
-
+ -->
 
 | Linux Básico |  | |
 |------------------------|-----------| -------------| 
