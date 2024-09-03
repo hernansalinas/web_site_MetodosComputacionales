@@ -52,8 +52,6 @@ El proyecto se realizará máximo  parejas, deberá existir un anteproyecto disc
 
 
 
-
-
 # Exposición
 
 1. Introduccion 
