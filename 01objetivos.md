@@ -6,7 +6,7 @@ nav_order: 2
 
 # Descripción
 
-El curso de Métodos Computacionales tiene propósito fundamental la introducción de
+El curso de Métodos Computalscionales tiene propósito fundamental la introducción de
 métodos numéricos ampliamente usados en Física y Astronomía. Estos temas son
 abordados desde un contexto formal pero manteniendo una fuerte componente práctica y
 computacional, ilustrando además algunas aplicaciones en problemas de interés actual.
