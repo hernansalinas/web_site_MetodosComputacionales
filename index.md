@@ -123,17 +123,17 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Material Clase 1  | [Notebook](https://colab.research.google.com/drive/1AWBAYzNMH-uzOXwEm1du2FfMIMBghx1D#scrollTo=cb1787e3){: .btn .btn-purple } |              |
 | Actividad        | [ACT 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green} |  Febrero 27            |
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
-
+-->
 
 
 | Python Básico I| Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
-|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|12-02-2024 |
-|Python Básico I | [ACT 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_01.md){: .btn .btn-green }|20-02-2024 |
+|Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }| |
 |Lecturas | [LEC 1](https://restrepo.github.io/ComputationalMethods/material/overview-python.html){: .btn .btn-purple }| |
-|Python Básico II | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }|26-02-2024 |
+|Python Básico II | [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| |
 
- -->
+<!-- |Python Básico I | [ACT 1](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_01.md){: .btn .btn-green }|20-02-2024 | -->
+ 
 
 | Linux Básico |  | |
 |------------------------|-----------| -------------| 
