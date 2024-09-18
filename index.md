@@ -125,6 +125,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
+| Sesion 03 | Actividad | Fecha Entrega|
+|------------------------|-----------| -------------| 
+|Librerias | [Notebook](https://colab.research.google.com/github/hernansalinas/autogradesMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Clase_Librerias.ipynb){: .btn .btn-green }| |
+
 
 | Sesion 03 | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
