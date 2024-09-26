@@ -129,7 +129,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Representación númerica |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Representación númerica        | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Representación_númerica.ipynb){: .btn .btn-purple} |              |
-|Binarios y flotantes | [Actividad 03](https://colab.research.google.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_03_Representación_númerica.ipynb){: .btn .btn-red }| 6 octubre|
+|Binarios y flotantes | [Actividad 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_03_Representación_númerica.ipynb){: .btn .btn-red }| 6 octubre|
 
 | Sesion 03 | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
