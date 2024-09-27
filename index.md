@@ -125,11 +125,16 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
+|Teoría de errores |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Teoría de errores        | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Teoria_de_errores.ipynb){: .btn .btn-green} |              |
+|Binarios y flotantes | [Laboratorio 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Laboratorio_03_Errores.ipynb){: .btn .btn-purple }| 6 octubre|
+
 
 |Representación númerica |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
-| Representación númerica        | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Representación_númerica.ipynb){: .btn .btn-purple} |              |
-|Binarios y flotantes | [Actividad 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_03_Representación_númerica.ipynb){: .btn .btn-red }| 6 octubre|
+| Representación númerica        | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Representación_númerica.ipynb){: .btn .btn-green} |              |
+|Binarios y flotantes | [Actividad 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_03_Representación_númerica.ipynb){: .btn .btn-purple }| 6 octubre|
 
 | Sesion 03 | Actividad | Fecha Entrega|
 |------------------------|-----------| -------------| 
@@ -137,7 +142,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Numpy        | [Presentación](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Presentaciones_JM/Librerias_Numpy.pdf){: .btn .btn-purple} |   
 | Matplotlib        | [Presentación](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Presentaciones_JM/Librerias_Matplotlib.pdf){: .btn .btn-purple} |  
 | Pandas        | [Presentación](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Presentaciones_JM/Librerias_Pandas.pdf){: .btn .btn-purple} |  
-|Librerias y modelación | [Actividad 02](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_02(Librerias).md){: .btn .btn-red }| 25 septiembre|
+|Librerias y modelación | [Actividad 02](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_02(Librerias).md){: .btn .btn-purple }| 25 septiembre|
 
 
 
