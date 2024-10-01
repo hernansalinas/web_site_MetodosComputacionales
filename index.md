@@ -125,10 +125,15 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
+|Raíces |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Bisección      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raices_Biseccion.ipynb){: .btn .btn-green} |              |
+
+
 |Teoría de errores |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Teoría de errores        | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Teoria_de_errores.ipynb){: .btn .btn-green} |              |
-|Binarios y flotantes | [Laboratorio 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_03_Errores.ipynb){: .btn .btn-purple }| 6 octubre|
+|Errores y estabilidad | [Laboratorio 03](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_03_Errores.ipynb){: .btn .btn-purple }| 6 octubre|
 
 
 |Representación númerica |Actividad|Fecha Entrega|
