@@ -125,10 +125,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
+
 |Raíces |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Bisección      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raices_Biseccion.ipynb){: .btn .btn-green} |              |
-
+| Regula Falsi - Punto fijo      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raices_Biseccion_Regula_PuntoFijo.ipynb){: .btn .btn-green} |              |
 
 |Teoría de errores |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
