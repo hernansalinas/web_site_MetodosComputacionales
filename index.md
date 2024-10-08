@@ -20,7 +20,6 @@ Este es la web del curso de métodos computacionales
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 {: .warning }
-> Entrega tareas
 > Laboratorios y Actividades (1, 2 y 3) hasta el próximo Martes 22 de Octubre
 
 <!-- 
