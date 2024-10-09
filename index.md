@@ -21,7 +21,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 {: .warning }
 > Información
-Entrega Laboratorios y Actividades (1, 2 y 3) hasta el próximo Martes 22 de Octubre
+Entrega Laboratorios y Actividades (1, 2 y 3) hasta el próximo **Martes 15** de Octubre
 
 {: .warning }
 > Parcial
