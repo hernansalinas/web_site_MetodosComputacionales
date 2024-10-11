@@ -133,11 +133,15 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 -->
 
 
+
+
 |Raíces |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Bisección      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raices_Biseccion.ipynb){: .btn .btn-green} |              |
 | Regula Falsi - Punto fijo      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raices_Biseccion_Regula_PuntoFijo.ipynb){: .btn .btn-green} |              |
 | Newton-Raphson - Secante      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Raíces_Numéricas_funciones.ipynb){: .btn .btn-green} |              |
+|*Raíces y ecuaciones trascendentales* | [Laboratorio 04](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_04_Raíces.ipynb){: .btn .btn-purple }| 22 octubre|
+
 
 |Teoría de errores |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
