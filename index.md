@@ -132,6 +132,10 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
+|Interpolación |Actividad|Fecha Entrega|
+|------------------|-----------| -------------| 
+| Lineal - Lagrange      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_Lineal_Lagrange.ipynb){: .btn .btn-green} |              |
+
 
 
 
