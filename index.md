@@ -135,6 +135,7 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 |Interpolación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
 | Lineal - Lagrange      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_Lineal_Lagrange.ipynb){: .btn .btn-green} |              |
+| Newton - Hermite      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_Newton_Hermite.ipynb){: .btn .btn-green} |              |
 
 
 
