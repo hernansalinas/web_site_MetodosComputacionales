@@ -137,7 +137,8 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | Lineal - Lagrange      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_Lineal_Lagrange.ipynb){: .btn .btn-green} |              |
 | Newton - Hermite      | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_Newton_Hermite.ipynb){: .btn .btn-green} |              |
 |*Interpolación* | [Actividad 04](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_04_Interpolación.ipynb){: .btn .btn-purple }| 31 octubre|
-|*Interpolación Spline* | [Actividad 05](https://colab.research.google.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_CubicSplines.ipynb){: .btn .btn-purple }| 4 noviembre|
+|*Interpolación Spline* | [Actividad 05](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Interpolación_CubicSplines.ipynb){: .btn .btn-purple }| 4 noviembre|
+
 
 
 
