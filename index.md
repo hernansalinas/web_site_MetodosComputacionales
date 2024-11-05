@@ -136,7 +136,9 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 |------------------|-----------| -------------| 
 | Númerica     | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Diferenciación.ipynb){: .btn .btn-green} |              |
 |*Númerica y sympy* | [Actividad 06](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_06_Diferenciación.ipynb){: .btn .btn-purple }| 12 noviembre|
-|*Problemas númericos* | [Laboratorio 05](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Diferenciación.ipynb){: .btn .btn-purple }| 12 noviembre|
+|*Problemas númericos* | [Laboratorio 05](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_05_Diferenciación.ipynb){: .btn .btn-purple }| 12 noviembre|
+
+
 
 |Interpolación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
