@@ -87,11 +87,6 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 |[Parcial 1](https://colab.research.google.com/github/hernansalinas/autogradesMetodosComputacionales/blob/main/Evaluaciones/Examen01_2024_1.ipynb){: .btn .btn-green}|||
 
 
-|Notas  |||
-|------------------|-----------| -------------| 
-| Lab: Prof. Juan Marcos        | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcdP6aEg8DBFjyEfDGTLnkTu5QTb9Jktw8m0zuw7uVXkC8FHZ6BZMp23eradiytQ/pubhtml?gid=49001877&single=true){: .btn .btn-green} |  Martes 19 Marzo       |
-| Actividades y parcial: Prof. Hernan | [Notas](https://docs.google.com/spreadsheets/d/1Xo7i4dSdGCR32kP-afV3fRPlDZRQ_f3v/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green} | |
-
 
 
 
@@ -131,6 +126,14 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | Actividad        | [ACT 2](https://github.com/hernansalinas/autogradesMetodosComputacionales/blob/main/Actividades_clase/Actividad_02.md){: .btn .btn-green} |  Febrero 27            |
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
+
+|Notas  |||
+|------------------|-----------|
+| Laboratorios/actividades      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-red} |  
+
+
+
+
 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
