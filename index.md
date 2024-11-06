@@ -18,7 +18,7 @@ Este es la web del curso de métodos computacionales
 
 
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
-<!-- 
+
 {: .warning }
 > Información
 Entrega Laboratorios y Actividades (1, 2 y 3) hasta el próximo **Martes 15** de Octubre
@@ -27,7 +27,7 @@ Entrega Laboratorios y Actividades (1, 2 y 3) hasta el próximo **Martes 15** de
 > Parcial
 Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 
-
+<!-- 
 |Examen Final |||
 |Examen Final| [Final](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/ExamenFinal_2024_1.ipynb)||
 
@@ -127,9 +127,9 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
-|Notas  |||
+|Notas  ||
 |------------------|-----------|
-| Laboratorios/actividades      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
+| **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
 
 
 
