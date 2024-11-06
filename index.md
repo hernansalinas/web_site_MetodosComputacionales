@@ -129,7 +129,7 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 
 |Notas  |||
 |------------------|-----------|
-| Laboratorios/actividades      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-red} |  
+| Laboratorios/actividades      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
 
 
 
