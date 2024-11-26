@@ -132,8 +132,10 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
 
 
-
-
+|Integración |Actividad| |
+|------------------|-----------| -------------| 
+| Newton-Cotes     | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_Newton_Cotes_Romberg.ipynb){: .btn .btn-green} |              |
+|*Integración* | [Actividad 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_07_Integración.ipynb){: .btn .btn-purple }| |
 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
