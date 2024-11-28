@@ -135,6 +135,8 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 |Integración |Actividad| |
 |------------------|-----------| -------------| 
 | Newton-Cotes     | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_Newton_Cotes_Romberg.ipynb){: .btn .btn-green} |              |
+| Cuadratura Gaussiana    | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_CuadraturaGaussiana.ipynb){: .btn .btn-green} |              |
+| Múltiples e impropias   | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integrales_Dobles_Triples_Impropias.ipynb){: .btn .btn-green} |              |
 |*Integración* | [Actividad 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_07_Integración.ipynb){: .btn .btn-purple }| |
 
 |Diferenciación |Actividad|Fecha Entrega|
