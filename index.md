@@ -139,7 +139,7 @@ Jueves 31 de Octubre (Todos los temas hasta Interpolación)
 | Múltiples e impropias   | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integrales_Dobles_Triples_Impropias.ipynb){: .btn .btn-green} |              |
 | MonteCarlo   | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_MonteCarlo.ipynb){: .btn .btn-green} |              |
 |*Integración* | [Actividad 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_07_Integración.ipynb){: .btn .btn-purple }| |
-|*Integración númerica* | [Laboratorio 05](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_06_Integración.ipynb){: .btn .btn-purple }| 12 noviembre|
+|*Integración númerica* | [Laboratorio 06](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_06_Integración.ipynb){: .btn .btn-purple }| 12 noviembre|
 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
