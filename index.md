@@ -20,7 +20,7 @@ Este es la web del curso de métodos computacionales
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 {: .warning }
-> Entrega Laboratorios y Actividades (Diferenciación) hasta el próximo **Jueves 13** de Febrero
+> Entrega Laboratorios y Actividades próximo **Jueves 13** de Febrero
 
 {: .warning }
 > Parcial I **Jueves 13 de Febrero**
