@@ -20,10 +20,10 @@ Este es la web del curso de métodos computacionales
 En las tablas se incluyen los link a los laboratorio, notas de clase del taller y actividades a realizar durante la clase  de metodos computacionales
 
 {: .warning }
-> Entrega Laboratorios y Actividades próximo **Jueves 13** de Febrero
+> Próximo parcial **4 de Marzo**
 
 {: .warning }
-> [Parcial I](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial_I_2024_I_(Grupo_2).ipynb) 
+> [Parcial I](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial_I_2024_I_(Grupo_2).ipynb) **Jueves 13 de Febrero**
 
 
 <!-- 
