@@ -134,6 +134,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
 
 
+
+|Matrices |Actividad|Fecha Entrega|
+|Algrebra lineal| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Algrebra_Lineal_Resumen.ipynb)||
+|Sistemas de ecuaciones| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Sistema_de_ecuaciones.ipynb)||
+|Factorizacion LU| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Factorizacion_LU_Iterativos.ipynb)||
+|Matrices Complejas| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Matrices_Complejas_Valores_Propios.ipynb)||
+
+
 |Integración |Actividad| |
 |------------------|-----------| -------------| 
 | Newton-Cotes     | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_Newton_Cotes_Romberg.ipynb){: .btn .btn-green} |              |
