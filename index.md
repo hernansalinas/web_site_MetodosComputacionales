@@ -136,6 +136,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 
 |Matrices |Actividad|Fecha Entrega|
+|------------------|-----------|
 |Algrebra lineal| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Algrebra_Lineal_Resumen.ipynb)||
 |Sistemas de ecuaciones| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Sistema_de_ecuaciones.ipynb)||
 |Factorizacion LU| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Factorizacion_LU_Iterativos.ipynb)||
