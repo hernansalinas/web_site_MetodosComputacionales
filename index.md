@@ -129,9 +129,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Laboratorio        | [LAB 3](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb){: .btn .btn-green} |  Lunes 3 Marzo            |
 -->
 
-|Notas  ||
+|Notas Grupo 12-14 ||
 |------------------|-----------|
 | **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_GdPYZR_qWYhiT7YaW3wtlbUFkVAndlcRMm5S-bDA6RquIe2lh9yh_oX_tJpDbg/pubhtml){: .btn .btn-blue} |  
+
+|Notas Grupo 10-12 ||
+|------------------|-----------|
+| **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXLnk2pvpwOPMArWnd3e3Avyc0N_DvevcmnOcvSnCXnl-L6YkYTal-D6BA2N8aTQ/pubhtml){: .btn .btn-blue} |  
 
 
 |Matrices |Actividad| |
