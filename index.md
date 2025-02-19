@@ -144,6 +144,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Sisteas de ecuaciones| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Sistema_de_ecuaciones.ipynb){: .btn .btn-green}| |
 |Factorizacion LU| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Factorizacion_LU_Iterativos.ipynb){: .btn .btn-green}| |
 |Matrices Complejas| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Matrices_Complejas_Valores_Propios.ipynb){: .btn .btn-green}| |
+|*Algebra lineal y Matrices* | [Actividad 08](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_08_Algrebra_Matrices.ipynb){: .btn .btn-purple }| 4 marzo |
+|*Matrices* | [Laboratorio 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_07_Matrices.ipynb){: .btn .btn-purple }| 4 marzo|
 
 
 |Integración |Actividad| |
@@ -152,8 +154,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | Cuadratura Gaussiana    | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_CuadraturaGaussiana.ipynb){: .btn .btn-green} |              |
 | Múltiples e impropias   | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integrales_Dobles_Triples_Impropias.ipynb){: .btn .btn-green} |              |
 | MonteCarlo   | [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Integración_MonteCarlo.ipynb){: .btn .btn-green} |              |
-|*Integración* | [Actividad 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_07_Integración.ipynb){: .btn .btn-purple }| |
-|*Integración númerica* | [Laboratorio 06](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_06_Integración.ipynb){: .btn .btn-purple }| 12 noviembre|
+|*Integración* | [Actividad 07](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Actividad_07_Integración.ipynb){: .btn .btn-purple }| 4 marzo |
+|*Integración númerica* | [Laboratorio 06](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Laboratorio_06_Integración.ipynb){: .btn .btn-purple }| 4 marzo |
 
 |Diferenciación |Actividad|Fecha Entrega|
 |------------------|-----------| -------------| 
