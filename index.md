@@ -139,6 +139,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 | **Laboratorios/actividades**      | [Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXLnk2pvpwOPMArWnd3e3Avyc0N_DvevcmnOcvSnCXnl-L6YkYTal-D6BA2N8aTQ/pubhtml){: .btn .btn-blue} |  
 
 
+|Ecuaciones Diferenciales Ordinarias |Actividad| |
+|------------------|-----------| -------------| 
+|Euler| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/EDO_Euler.ipynb){: .btn .btn-green}| |
+
 |Matrices |Actividad| |
 |------------------|-----------| -------------| 
 |Algrebra lineal| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/Matrices/Algrebra_Lineal_Resumen.ipynb){: .btn .btn-green}| |
