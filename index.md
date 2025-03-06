@@ -26,7 +26,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 > [Parcial I](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial_I_2024_I_(Grupo_2).ipynb) **Jueves 13 de Febrero**
 
 {: .warning }
-> [Parcial II](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial2_Integrales_Matrices.ipynb.ipynb) **Jueves 6 de Marzo**
+> [Parcial II](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial2_Integrales_Matrices.ipynb) **Jueves 6 de Marzo**
 
 <!-- 
 
