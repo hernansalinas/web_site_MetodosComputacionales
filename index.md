@@ -28,7 +28,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 
 <!-- 
 {: .warning }
-> [Parcial I](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial_1_2024_2_(Métodos).ipynb) **Entrega hasta el lunes 16 de diciembre 11:59 p.m.** *Sin sustentación NO hay nota!*
+> [Parcial II](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Laboratorios_Taller/Parciales/Parcial2_Integrales_Matrices.ipynb.ipynb) **Jueves 6 de Marzo**
 
 |Examen Final |||
 |Examen Final| [Final](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/ExamenFinal_2024_1.ipynb)||
