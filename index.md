@@ -139,8 +139,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |Ecuaciones Diferenciales Ordinarias |Actividad| |
 |------------------|-----------| -------------| 
 |Euler| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/EDO_Euler.ipynb){: .btn .btn-green}| |
+|EDO Scipy (Daniel Ruiz)| [Notebook](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Notebooks_JM/ed_scipy.ipynb){: .btn .btn-green}| |
 |*Taller Final* | [Parcial](https://colab.research.google.com/github/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/Activivades_JM/Final_Ecuaciones_Diferenciales.ipynb){: .btn .btn-purple }| 20 marzo |
-
 
 
 |Matrices |Actividad| |
